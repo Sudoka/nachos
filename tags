@@ -1,0 +1,235 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AdultItinerary	threads/Boat.java	/^    static void AdultItinerary()$/;"	m	class:Boat
+Alarm	threads/Alarm.java	/^    public Alarm() {$/;"	m	class:Alarm
+Alarm	threads/Alarm.java	/^public class Alarm {$/;"	c
+AlarmTest	threads/AlarmTest.java	/^public class AlarmTest {$/;"	c
+Boat	threads/Boat.java	/^public class Boat$/;"	c
+ChildItinerary	threads/Boat.java	/^    static void ChildItinerary()$/;"	m	class:Boat
+Communicator	threads/Communicator.java	/^    public Communicator() {$/;"	m	class:Communicator
+Communicator	threads/Communicator.java	/^public class Communicator {$/;"	c
+Condition	threads/Condition.java	/^    public Condition(Lock conditionLock) {$/;"	m	class:Condition
+Condition	threads/Condition.java	/^public class Condition {$/;"	c
+Condition2	threads/Condition2.java	/^    public Condition2(Lock conditionLock) {$/;"	m	class:Condition2
+Condition2	threads/Condition2.java	/^public class Condition2 {$/;"	c
+ElevatorController	threads/ElevatorController.java	/^    public ElevatorController() {$/;"	m	class:ElevatorController
+ElevatorController	threads/ElevatorController.java	/^public class ElevatorController implements ElevatorControllerInterface {$/;"	c
+FifoQueue	threads/RoundRobinScheduler.java	/^    private class FifoQueue extends ThreadQueue {$/;"	c	class:RoundRobinScheduler
+KThread	threads/KThread.java	/^    public KThread() {$/;"	m	class:KThread
+KThread	threads/KThread.java	/^    public KThread(Runnable target) {$/;"	m	class:KThread
+KThread	threads/KThread.java	/^public class KThread {$/;"	c
+KThreadTest	threads/KThreadTest.java	/^public class KThreadTest {$/;"	c
+Lock	threads/Lock.java	/^    public Lock() {$/;"	m	class:Lock
+Lock	threads/Lock.java	/^public class Lock {$/;"	c
+LotteryScheduler	threads/LotteryScheduler.java	/^    public LotteryScheduler() {$/;"	m	class:LotteryScheduler
+LotteryScheduler	threads/LotteryScheduler.java	/^public class LotteryScheduler extends PriorityScheduler {$/;"	c
+P	threads/Semaphore.java	/^    public void P() {$/;"	m	class:Semaphore
+PingTest	threads/KThread.java	/^	PingTest(int which) {$/;"	m	class:KThread.PingTest
+PingTest	threads/KThread.java	/^    private static class PingTest implements Runnable {$/;"	c	class:KThread
+PingTest	threads/KThreadTest.java	/^                        PingTest(int which) {$/;"	m	class:KThreadTest.PingTest
+PingTest	threads/KThreadTest.java	/^            private static class PingTest implements Runnable {$/;"	c	class:KThreadTest
+PingTest	threads/Semaphore.java	/^	PingTest(Semaphore ping, Semaphore pong) {$/;"	m	class:Semaphore.PingTest
+PingTest	threads/Semaphore.java	/^    private static class PingTest implements Runnable {$/;"	c	class:Semaphore
+PingTest	threads/SynchList.java	/^	PingTest(SynchList ping, SynchList pong) {$/;"	m	class:SynchList.PingTest
+PingTest	threads/SynchList.java	/^    private static class PingTest implements Runnable {$/;"	c	class:SynchList
+PriorityQueue	threads/PriorityScheduler.java	/^	PriorityQueue(boolean transferPriority) {$/;"	m	class:PriorityScheduler.PriorityQueue
+PriorityQueue	threads/PriorityScheduler.java	/^    protected class PriorityQueue extends ThreadQueue {$/;"	c	class:PriorityScheduler
+PriorityScheduler	threads/PriorityScheduler.java	/^    public PriorityScheduler() {$/;"	m	class:PriorityScheduler
+PriorityScheduler	threads/PriorityScheduler.java	/^public class PriorityScheduler extends Scheduler {$/;"	c
+Rider	threads/Rider.java	/^    public Rider() {$/;"	m	class:Rider
+Rider	threads/Rider.java	/^public class Rider implements RiderInterface {$/;"	c
+RoundRobinScheduler	threads/RoundRobinScheduler.java	/^    public RoundRobinScheduler() {$/;"	m	class:RoundRobinScheduler
+RoundRobinScheduler	threads/RoundRobinScheduler.java	/^public class RoundRobinScheduler extends Scheduler {$/;"	c
+SampleItinerary	threads/Boat.java	/^    static void SampleItinerary()$/;"	m	class:Boat
+Scheduler	threads/Scheduler.java	/^    public Scheduler() {$/;"	m	class:Scheduler
+Scheduler	threads/Scheduler.java	/^public abstract class Scheduler {$/;"	c
+Semaphore	threads/Semaphore.java	/^    public Semaphore(int initialValue) {$/;"	m	class:Semaphore
+Semaphore	threads/Semaphore.java	/^public class Semaphore {$/;"	c
+SynchList	threads/SynchList.java	/^    public SynchList() {$/;"	m	class:SynchList
+SynchList	threads/SynchList.java	/^public class SynchList {$/;"	c
+ThreadQueue	threads/ThreadQueue.java	/^public abstract class ThreadQueue {$/;"	c
+ThreadState	threads/PriorityScheduler.java	/^	public ThreadState(KThread thread) {$/;"	m	class:PriorityScheduler.ThreadState
+ThreadState	threads/PriorityScheduler.java	/^    protected class ThreadState {$/;"	c	class:PriorityScheduler
+ThreadedKernel	threads/ThreadedKernel.java	/^    public ThreadedKernel() {$/;"	m	class:ThreadedKernel
+ThreadedKernel	threads/ThreadedKernel.java	/^public class ThreadedKernel extends Kernel {$/;"	c
+V	threads/Semaphore.java	/^    public void V() {$/;"	m	class:Semaphore
+acquire	threads/Lock.java	/^    public void acquire() {$/;"	m	class:Lock
+acquire	threads/PriorityScheduler.java	/^	public void acquire(KThread thread) {$/;"	m	class:PriorityScheduler.PriorityQueue
+acquire	threads/PriorityScheduler.java	/^	public void acquire(PriorityQueue waitQueue) {$/;"	m	class:PriorityScheduler.ThreadState
+acquire	threads/RoundRobinScheduler.java	/^	public void acquire(KThread thread) {$/;"	m	class:RoundRobinScheduler.FifoQueue
+acquire	threads/ThreadQueue.java	/^    public abstract void acquire(KThread thread);$/;"	m	class:ThreadQueue
+add	threads/SynchList.java	/^    public void add(Object o) {$/;"	m	class:SynchList
+alarm	threads/ThreadedKernel.java	/^    public static Alarm alarm = null;$/;"	f	class:ThreadedKernel
+begin	threads/Boat.java	/^    public static void begin( int adults, int children, BoatGrader b )$/;"	m	class:Boat
+begin	threads/KThread.java	/^    private void begin() {$/;"	m	class:KThread	file:
+bg	threads/Boat.java	/^    static BoatGrader bg;$/;"	f	class:Boat
+compareTo	threads/Alarm.java	/^        public int compareTo(threadTime o2) {$/;"	m	class:Alarm.threadTime
+compareTo	threads/KThread.java	/^    public int compareTo(Object o) {$/;"	m	class:KThread
+conditionLock	threads/Condition.java	/^    private Lock conditionLock;$/;"	f	class:Condition	file:
+conditionLock	threads/Condition2.java	/^    private Lock conditionLock;$/;"	f	class:Condition2	file:
+createIdleThread	threads/KThread.java	/^    private static void createIdleThread() {$/;"	m	class:KThread	file:
+currentThread	threads/KThread.java	/^    private static KThread currentThread = null;$/;"	f	class:KThread	file:
+currentThread	threads/KThread.java	/^    public static KThread currentThread() {$/;"	m	class:KThread
+dbgThread	threads/KThread.java	/^    private static final char dbgThread = 't';$/;"	f	class:KThread	file:
+decreasePriority	threads/PriorityScheduler.java	/^    public boolean decreasePriority() {$/;"	m	class:PriorityScheduler
+decreasePriority	threads/Scheduler.java	/^    public boolean decreasePriority() {$/;"	m	class:Scheduler
+dummy1	threads/ThreadedKernel.java	/^    private static RoundRobinScheduler dummy1 = null;$/;"	f	class:ThreadedKernel	file:
+dummy2	threads/ThreadedKernel.java	/^    private static PriorityScheduler dummy2 = null;$/;"	f	class:ThreadedKernel	file:
+dummy3	threads/ThreadedKernel.java	/^    private static LotteryScheduler dummy3 = null;$/;"	f	class:ThreadedKernel	file:
+dummy4	threads/ThreadedKernel.java	/^    private static Condition2 dummy4 = null;$/;"	f	class:ThreadedKernel	file:
+dummy5	threads/ThreadedKernel.java	/^    private static Communicator dummy5 = null;$/;"	f	class:ThreadedKernel	file:
+dummy6	threads/ThreadedKernel.java	/^    private static Rider dummy6 = null;$/;"	f	class:ThreadedKernel	file:
+dummy7	threads/ThreadedKernel.java	/^    private static ElevatorController dummy7 = null;$/;"	f	class:ThreadedKernel	file:
+fileSystem	threads/ThreadedKernel.java	/^    public static FileSystem fileSystem = null;$/;"	f	class:ThreadedKernel
+finish	threads/KThread.java	/^    public static void finish() {$/;"	m	class:KThread
+fork	threads/KThread.java	/^    public void fork() {$/;"	m	class:KThread
+getEffectivePriority	threads/PriorityScheduler.java	/^	public int getEffectivePriority() {$/;"	m	class:PriorityScheduler.ThreadState
+getEffectivePriority	threads/PriorityScheduler.java	/^    public int getEffectivePriority(KThread thread) {$/;"	m	class:PriorityScheduler
+getEffectivePriority	threads/Scheduler.java	/^    public int getEffectivePriority() {$/;"	m	class:Scheduler
+getEffectivePriority	threads/Scheduler.java	/^    public int getEffectivePriority(KThread thread) {$/;"	m	class:Scheduler
+getName	threads/KThread.java	/^    public String getName() {$/;"	m	class:KThread
+getPriority	threads/PriorityScheduler.java	/^	public int getPriority() {$/;"	m	class:PriorityScheduler.ThreadState
+getPriority	threads/PriorityScheduler.java	/^    public int getPriority(KThread thread) {$/;"	m	class:PriorityScheduler
+getPriority	threads/Scheduler.java	/^    public int getPriority() {$/;"	m	class:Scheduler
+getPriority	threads/Scheduler.java	/^    public int getPriority(KThread thread) {$/;"	m	class:Scheduler
+getThreadState	threads/PriorityScheduler.java	/^    protected ThreadState getThreadState(KThread thread) {$/;"	m	class:PriorityScheduler
+id	threads/KThread.java	/^    private int id = numCreated++;$/;"	f	class:KThread	file:
+idleThread	threads/KThread.java	/^    private static KThread idleThread = null;$/;"	f	class:KThread	file:
+increasePriority	threads/PriorityScheduler.java	/^    public boolean increasePriority() {$/;"	m	class:PriorityScheduler
+increasePriority	threads/Scheduler.java	/^    public boolean increasePriority() {$/;"	m	class:Scheduler
+initialize	threads/ElevatorController.java	/^    public void initialize(ElevatorControls controls) {$/;"	m	class:ElevatorController
+initialize	threads/Rider.java	/^    public void initialize(RiderControls controls, int[] stops) {$/;"	m	class:Rider
+initialize	threads/ThreadedKernel.java	/^    public void initialize(String[] args) {$/;"	m	class:ThreadedKernel
+interrupter	threads/AlarmTest.java	/^		public interrupter(String name, int length) {$/;"	m	class:AlarmTest.interrupter
+interrupter	threads/AlarmTest.java	/^	private static class interrupter implements Runnable {$/;"	c	class:AlarmTest
+isHeldByCurrentThread	threads/Lock.java	/^    public boolean isHeldByCurrentThread() {$/;"	m	class:Lock
+join	threads/KThread.java	/^    public void join() {$/;"	m	class:KThread
+joinSemaphore	threads/KThread.java	/^    private Semaphore joinSemaphore = new Semaphore(0);$/;"	f	class:KThread	file:
+joinTo	threads/KThreadTest.java	/^                                    private KThread joinTo;$/;"	f	class:KThreadTest.joiner	file:
+joiner	threads/KThreadTest.java	/^                    joiner(String name, KThread joinTo){$/;"	m	class:KThreadTest.joiner
+joiner	threads/KThreadTest.java	/^        private static class joiner implements Runnable {$/;"	c	class:KThreadTest
+length	threads/AlarmTest.java	/^		private int length;$/;"	f	class:AlarmTest.interrupter	file:
+list	threads/SynchList.java	/^    private LinkedList<Object> list;$/;"	f	class:SynchList	file:
+listEmpty	threads/SynchList.java	/^    private Condition listEmpty;$/;"	f	class:SynchList	file:
+listen	threads/Communicator.java	/^    public int listen() {$/;"	m	class:Communicator
+lock	threads/SynchList.java	/^    private Lock lock;$/;"	f	class:SynchList	file:
+lockHolder	threads/Lock.java	/^    private KThread lockHolder = null;$/;"	f	class:Lock	file:
+nachos.threads	threads/Alarm.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/AlarmTest.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/Boat.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/Communicator.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/Condition.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/Condition2.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/ElevatorController.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/KThread.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/KThreadTest.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/Lock.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/LotteryScheduler.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/PriorityScheduler.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/Rider.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/RoundRobinScheduler.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/Scheduler.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/Semaphore.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/SynchList.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/ThreadQueue.java	/^package nachos.threads;$/;"	p
+nachos.threads	threads/ThreadedKernel.java	/^package nachos.threads;$/;"	p
+name	threads/AlarmTest.java	/^		private String name;$/;"	f	class:AlarmTest.interrupter	file:
+name	threads/KThread.java	/^    private String name = "(unnamed thread)";$/;"	f	class:KThread	file:
+name	threads/KThreadTest.java	/^                                            private String name;$/;"	f	class:KThreadTest.joiner	file:
+newThreadQueue	threads/LotteryScheduler.java	/^    public ThreadQueue newThreadQueue(boolean transferPriority) {$/;"	m	class:LotteryScheduler
+newThreadQueue	threads/PriorityScheduler.java	/^    public ThreadQueue newThreadQueue(boolean transferPriority) {$/;"	m	class:PriorityScheduler
+newThreadQueue	threads/RoundRobinScheduler.java	/^    public ThreadQueue newThreadQueue(boolean transferPriority) {$/;"	m	class:RoundRobinScheduler
+newThreadQueue	threads/Scheduler.java	/^    public abstract ThreadQueue newThreadQueue(boolean transferPriority);$/;"	m	class:Scheduler
+nextThread	threads/PriorityScheduler.java	/^	public KThread nextThread() {$/;"	m	class:PriorityScheduler.PriorityQueue
+nextThread	threads/RoundRobinScheduler.java	/^	public KThread nextThread() {$/;"	m	class:RoundRobinScheduler.FifoQueue
+nextThread	threads/ThreadQueue.java	/^    public abstract KThread nextThread();$/;"	m	class:ThreadQueue
+numCreated	threads/KThread.java	/^    private static int numCreated = 0;$/;"	f	class:KThread	file:
+pickNextThread	threads/PriorityScheduler.java	/^	protected ThreadState pickNextThread() {$/;"	m	class:PriorityScheduler.PriorityQueue
+ping	threads/Semaphore.java	/^	private Semaphore ping;$/;"	f	class:Semaphore.PingTest	file:
+ping	threads/SynchList.java	/^	private SynchList ping;$/;"	f	class:SynchList.PingTest	file:
+pong	threads/Semaphore.java	/^	private Semaphore pong;$/;"	f	class:Semaphore.PingTest	file:
+pong	threads/SynchList.java	/^	private SynchList pong;$/;"	f	class:SynchList.PingTest	file:
+print	threads/PriorityScheduler.java	/^	public void print() {$/;"	m	class:PriorityScheduler.PriorityQueue
+print	threads/RoundRobinScheduler.java	/^	public void print() {$/;"	m	class:RoundRobinScheduler.FifoQueue
+print	threads/ThreadQueue.java	/^    public abstract void print();$/;"	m	class:ThreadQueue
+priority	threads/PriorityScheduler.java	/^	protected int priority;$/;"	f	class:PriorityScheduler.ThreadState
+priorityDefault	threads/PriorityScheduler.java	/^    public static final int priorityDefault = 1;$/;"	f	class:PriorityScheduler
+priorityMaximum	threads/PriorityScheduler.java	/^    public static final int priorityMaximum = 7;    $/;"	f	class:PriorityScheduler
+priorityMinimum	threads/PriorityScheduler.java	/^    public static final int priorityMinimum = 0;$/;"	f	class:PriorityScheduler
+ready	threads/KThread.java	/^    public void ready() {$/;"	m	class:KThread
+readyQueue	threads/KThread.java	/^    private static ThreadQueue readyQueue = null;$/;"	f	class:KThread	file:
+release	threads/Lock.java	/^    public void release() {$/;"	m	class:Lock
+removeFirst	threads/SynchList.java	/^    public Object removeFirst() {$/;"	m	class:SynchList
+restoreState	threads/KThread.java	/^    protected void restoreState() {$/;"	m	class:KThread
+run	threads/AlarmTest.java	/^		public void run() {$/;"	m	class:AlarmTest.interrupter
+run	threads/ElevatorController.java	/^    public void run() {$/;"	m	class:ElevatorController
+run	threads/KThread.java	/^	public void run() {$/;"	m	class:KThread.PingTest
+run	threads/KThread.java	/^    private void run() {$/;"	m	class:KThread	file:
+run	threads/KThreadTest.java	/^                                public void run() {$/;"	m	class:KThreadTest.PingTest
+run	threads/KThreadTest.java	/^                            public void run(){$/;"	m	class:KThreadTest.joiner
+run	threads/Rider.java	/^    public void run() {$/;"	m	class:Rider
+run	threads/Semaphore.java	/^	public void run() {$/;"	m	class:Semaphore.PingTest
+run	threads/SynchList.java	/^	public void run() {$/;"	m	class:SynchList.PingTest
+run	threads/ThreadedKernel.java	/^    public void run() {$/;"	m	class:ThreadedKernel
+runNextThread	threads/KThread.java	/^    private static void runNextThread() {$/;"	m	class:KThread	file:
+runTest	threads/AlarmTest.java	/^	public static void runTest() {$/;"	m	class:AlarmTest
+runTest	threads/KThreadTest.java	/^                public static void runTest() {$/;"	m	class:KThreadTest
+runThread	threads/KThread.java	/^    private void runThread() {$/;"	m	class:KThread	file:
+saveState	threads/KThread.java	/^    protected void saveState() {$/;"	m	class:KThread
+scheduler	threads/ThreadedKernel.java	/^    public static Scheduler scheduler = null;$/;"	f	class:ThreadedKernel
+schedulingState	threads/KThread.java	/^    public Object schedulingState = null;$/;"	f	class:KThread
+selfTest	threads/Alarm.java	/^    public static void selfTest() {$/;"	m	class:Alarm
+selfTest	threads/Boat.java	/^    public static void selfTest()$/;"	m	class:Boat
+selfTest	threads/KThread.java	/^    public static void selfTest() {$/;"	m	class:KThread
+selfTest	threads/Semaphore.java	/^    public static void selfTest() {$/;"	m	class:Semaphore
+selfTest	threads/SynchList.java	/^    public static void selfTest() {$/;"	m	class:SynchList
+selfTest	threads/ThreadedKernel.java	/^    public void selfTest() {$/;"	m	class:ThreadedKernel
+setName	threads/KThread.java	/^    public KThread setName(String name) {$/;"	m	class:KThread
+setPriority	threads/PriorityScheduler.java	/^	public void setPriority(int priority) {$/;"	m	class:PriorityScheduler.ThreadState
+setPriority	threads/PriorityScheduler.java	/^    public void setPriority(KThread thread, int priority) {$/;"	m	class:PriorityScheduler
+setPriority	threads/Scheduler.java	/^    public void setPriority(KThread thread, int priority) {$/;"	m	class:Scheduler
+setPriority	threads/Scheduler.java	/^    public void setPriority(int priority) {$/;"	m	class:Scheduler
+setTarget	threads/KThread.java	/^    public KThread setTarget(Runnable target) {$/;"	m	class:KThread
+sleep	threads/Condition.java	/^    public void sleep() {$/;"	m	class:Condition
+sleep	threads/Condition2.java	/^    public void sleep() {$/;"	m	class:Condition2
+sleep	threads/KThread.java	/^    public static void sleep() {$/;"	m	class:KThread
+sleepingThreads	threads/Alarm.java	/^    private PriorityQueue<threadTime> sleepingThreads = new PriorityQueue<threadTime>();$/;"	f	class:Alarm	file:
+speak	threads/Communicator.java	/^    public void speak(int word) {$/;"	m	class:Communicator
+status	threads/KThread.java	/^    private int status = statusNew;$/;"	f	class:KThread	file:
+statusBlocked	threads/KThread.java	/^    private static final int statusBlocked = 3;$/;"	f	class:KThread	file:
+statusFinished	threads/KThread.java	/^    private static final int statusFinished = 4;$/;"	f	class:KThread	file:
+statusNew	threads/KThread.java	/^    private static final int statusNew = 0;$/;"	f	class:KThread	file:
+statusReady	threads/KThread.java	/^    private static final int statusReady = 1;$/;"	f	class:KThread	file:
+statusRunning	threads/KThread.java	/^    private static final int statusRunning = 2;$/;"	f	class:KThread	file:
+target	threads/KThread.java	/^    private Runnable target;$/;"	f	class:KThread	file:
+tcb	threads/KThread.java	/^    private TCB tcb;$/;"	f	class:KThread	file:
+terminate	threads/ThreadedKernel.java	/^    public void terminate() {$/;"	m	class:ThreadedKernel
+thread	threads/Alarm.java	/^        KThread thread;$/;"	f	class:Alarm.threadTime
+thread	threads/PriorityScheduler.java	/^	protected KThread thread;$/;"	f	class:PriorityScheduler.ThreadState
+threadTime	threads/Alarm.java	/^    private class threadTime implements Comparable<threadTime> {$/;"	c	class:Alarm
+time	threads/Alarm.java	/^        long time;$/;"	f	class:Alarm.threadTime
+timerInterrupt	threads/Alarm.java	/^    public void timerInterrupt() {$/;"	m	class:Alarm
+toBeDestroyed	threads/KThread.java	/^    private static KThread toBeDestroyed = null;$/;"	f	class:KThread	file:
+toString	threads/KThread.java	/^    public String toString() {$/;"	m	class:KThread
+transferPriority	threads/PriorityScheduler.java	/^	public boolean transferPriority;$/;"	f	class:PriorityScheduler.PriorityQueue
+value	threads/Semaphore.java	/^    private int value;$/;"	f	class:Semaphore	file:
+waitForAccess	threads/PriorityScheduler.java	/^	public void waitForAccess(KThread thread) {$/;"	m	class:PriorityScheduler.PriorityQueue
+waitForAccess	threads/PriorityScheduler.java	/^	public void waitForAccess(PriorityQueue waitQueue) {$/;"	m	class:PriorityScheduler.ThreadState
+waitForAccess	threads/RoundRobinScheduler.java	/^	public void waitForAccess(KThread thread) {$/;"	m	class:RoundRobinScheduler.FifoQueue
+waitForAccess	threads/ThreadQueue.java	/^    public abstract void waitForAccess(KThread thread);$/;"	m	class:ThreadQueue
+waitQueue	threads/Condition.java	/^    private LinkedList<Semaphore> waitQueue;$/;"	f	class:Condition	file:
+waitQueue	threads/Lock.java	/^    private ThreadQueue waitQueue =$/;"	f	class:Lock	file:
+waitQueue	threads/RoundRobinScheduler.java	/^	private LinkedList<KThread> waitQueue = new LinkedList<KThread>();$/;"	f	class:RoundRobinScheduler.FifoQueue	file:
+waitQueue	threads/Semaphore.java	/^    private ThreadQueue waitQueue =$/;"	f	class:Semaphore	file:
+waitUntil	threads/Alarm.java	/^    public void waitUntil(long x) {$/;"	m	class:Alarm
+wake	threads/Condition.java	/^    public void wake() {$/;"	m	class:Condition
+wake	threads/Condition2.java	/^    public void wake() {$/;"	m	class:Condition2
+wakeAll	threads/Condition.java	/^    public void wakeAll() {$/;"	m	class:Condition
+wakeAll	threads/Condition2.java	/^    public void wakeAll() {$/;"	m	class:Condition2
+which	threads/KThread.java	/^	private int which;$/;"	f	class:KThread.PingTest	file:
+which	threads/KThreadTest.java	/^                                        private int which;$/;"	f	class:KThreadTest.PingTest	file:
+yield	threads/KThread.java	/^    public static void yield() {$/;"	m	class:KThread
